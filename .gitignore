@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/out
+
+# misc
+.DS_Store
+.gitconfig
